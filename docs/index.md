@@ -174,6 +174,11 @@ Hundreds of organisations and packages are using *pydantic*, including:
   [tools to debug and profile Python applications on Kubernetes](https://home.robusta.dev/python/) use
   *pydantic* models.
 
+[Catalyst Cooperative](https://catalyst.coop/)
+: are using *pydantic* in [PUDL](https://github.com/catalyst-cooperative/pudl), an open source data processing
+pipeline that makes US energy data easier to access and use programmatically.
+
+
 For a more comprehensive list of open-source projects using *pydantic* see the
 [list of dependents on github](https://github.com/pydantic/pydantic/network/dependents).
 
